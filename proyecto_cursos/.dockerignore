@@ -1,3 +1,0 @@
-git add .
-git commit -m "Agregar Dockerfile y dockerignore"
-git push origin main
